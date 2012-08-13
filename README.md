@@ -10,7 +10,7 @@ En faite, l'installation de ce module ne différe pas de l'installation traditio
 
 2-Maintenant déplacer le dossier social sous le repertoire img de votre site
 
-3-Déplacer le fichier AdminsocialMedia.php sous le repertoire tabs de votre dossier d'admnistration
+3-Déplacer le fichier AdminsocialMedia.php sous le repertoire tabs de votre dossier d'administration
 
 4-Déplacer le fichier SocialMedia.php sous le dossier classes de votre site
 
